@@ -28,7 +28,7 @@
 	<link rel="stylesheet" href="css/aos.css">
 	<link rel="stylesheet" href="css/style.css">
 
-	<title>Property &mdash; Free Bootstrap 5 Website Template by Untree.co</title>
+	<title>Link Library System&mdash; Free Bootstrap 5 Website Template by Untree.co</title>
 </head>
 <body>
 
@@ -45,7 +45,7 @@
 		<div class="container">
 			<div class="menu-bg-wrap">
 				<div class="site-navigation">
-					<a href="index.html" class="logo m-0 float-start">Property</a>
+					<a href="index.html" class="logo m-0 float-start">Link Library System</a>
 
 					<ul class="js-clone-nav d-none d-lg-inline-block text-start site-menu float-end">
 						<li class="active"><a href="index.html">Home</a></li>
@@ -90,9 +90,9 @@
 		<div class="container">
 			<div class="row justify-content-center align-items-center">
 				<div class="col-lg-9 text-center">
-					<h1 class="heading" data-aos="fade-up">Easiest way to find your dream home</h1>
+					<h1 class="heading" data-aos="fade-up">Link Library System</h1>
 					<form action="#" class="narrow-w form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
-						<input type="text" class="form-control px-4" placeholder="Your ZIP code or City. e.g. New York">
+						<input type="text" class="form-control px-4" placeholder="스터디 카페 검색하기">
 						<button type="submit" class="btn btn-primary">Search</button>
 					</form>
 				</div>
@@ -105,10 +105,10 @@
 		<div class="container">
 			<div class="row mb-5 align-items-center">
 				<div class="col-lg-6">
-					<h2 class="font-weight-bold text-primary heading">Popular Properties</h2>
+					<h2 class="font-weight-bold text-primary heading">많이 방문한 스터디 카페</h2>
 				</div>
 				<div class="col-lg-6 text-lg-end">
-					<p><a href="#" target="_blank" class="btn btn-primary text-white py-3 px-4">View all properties</a></p>
+					<p><a href="#" target="_blank" class="btn btn-primary text-white py-3 px-4">스터디 카페 전체 보기 </a></p>
 				</div>
 			</div>
 			<div class="row">
@@ -424,112 +424,10 @@
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, accusamus.</p>
 						<p><a href="#" class="learn-more">Learn More</a></p>
 					</div>
-				</div>	
+				</div>
 			</div>
 		</div>
 	</section>
-
-
-
-	<div class="section sec-testimonials">
-		<div class="container">
-			<div class="row mb-5 align-items-center">
-				<div class="col-md-6">
-					<h2 class="font-weight-bold heading text-primary mb-4 mb-md-0">Customer Says</h2>
-				</div>
-				<div class="col-md-6 text-md-end">
-					<div id="testimonial-nav">
-						<span class="prev" data-controls="prev">Prev</span>
-						
-						<span class="next" data-controls="next">Next</span>
-					</div>
-				</div>
-			</div>
-
-			<div class="row">
-				<div class="col-lg-4">
-					
-				</div>
-			</div>
-			<div class="testimonial-slider-wrap">
-				<div class="testimonial-slider">
-					<div class="item">
-						<div class="testimonial">
-							<img src="images/person_1-min.jpg" alt="Image" class="img-fluid rounded-circle w-25 mb-4">
-							<div class="rate">
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-							</div>
-							<h3 class="h5 text-primary mb-4">James Smith</h3>
-							<blockquote>
-								<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
-							</blockquote>
-							<p class="text-black-50">Designer, Co-founder</p>
-						</div>
-					</div>
-
-					<div class="item">
-						<div class="testimonial">
-							<img src="images/person_2-min.jpg" alt="Image" class="img-fluid rounded-circle w-25 mb-4">
-							<div class="rate">
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-							</div>
-							<h3 class="h5 text-primary mb-4">Mike Houston</h3>
-							<blockquote>
-								<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
-							</blockquote>
-							<p class="text-black-50">Designer, Co-founder</p>
-						</div>
-					</div>
-
-					<div class="item">
-						<div class="testimonial">
-							<img src="images/person_3-min.jpg" alt="Image" class="img-fluid rounded-circle w-25 mb-4">
-							<div class="rate">
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-							</div>
-							<h3 class="h5 text-primary mb-4">Cameron Webster</h3>
-							<blockquote>
-								<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
-							</blockquote>
-							<p class="text-black-50">Designer, Co-founder</p>
-						</div>
-					</div>
-
-					<div class="item">
-						<div class="testimonial">
-							<img src="images/person_4-min.jpg" alt="Image" class="img-fluid rounded-circle w-25 mb-4">
-							<div class="rate">
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-								<span class="icon-star text-warning"></span>
-							</div>
-							<h3 class="h5 text-primary mb-4">Dave Smith</h3>
-							<blockquote>
-								<p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
-							</blockquote>
-							<p class="text-black-50">Designer, Co-founder</p>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</div>
-
 
 	<div class="section section-4 bg-light">
 		<div class="container">
@@ -552,7 +450,7 @@
 						</span>
 						<div class="feature-text">
 							<h3 class="heading">2M Properties</h3>
-							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>   
+							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>
 						</div>
 					</div>
 
@@ -562,7 +460,7 @@
 						</span>
 						<div class="feature-text">
 							<h3 class="heading">Top Rated Agents</h3>
-							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>   
+							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>
 						</div>
 					</div>
 
@@ -572,7 +470,7 @@
 						</span>
 						<div class="feature-text">
 							<h3 class="heading">Legit Properties</h3>
-							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>   
+							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>
 						</div>
 					</div>
 				</div>
@@ -619,7 +517,7 @@
 		<div class="container">
 			<div class="row justify-content-center  text-center mb-5">
 				<div class="col-lg-6 mb-5">
-					<h2 class="font-weight-bold heading text-primary mb-4">Our Agents</h2>
+					<h2 class="font-weight-bold heading text-primary mb-4">Link Library System</h2>
 					<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam enim pariatur similique debitis vel nisi qui reprehenderit totam? Quod maiores.</p>
 				</div>
 			</div>
@@ -631,8 +529,8 @@
 						class="img-fluid">
 
 						<div class="person-contents">
-							<h2 class="mb-0"><a href="#">James Doe</a></h2>
-							<span class="meta d-block mb-3">Real Estate Agent</span>
+							<h2 class="mb-0"><a href="#">강윤서</a></h2>
+							<span class="meta d-block mb-3">Back-end</span>
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere officiis inventore cumque tenetur laboriosam, minus culpa doloremque odio, neque molestias?</p>
 
 							<ul class="social list-unstyled list-inline dark-hover">
@@ -651,8 +549,8 @@
 						class="img-fluid">
 
 						<div class="person-contents">
-							<h2 class="mb-0"><a href="#">Jean Smith</a></h2>
-							<span class="meta d-block mb-3">Real Estate Agent</span>
+							<h2 class="mb-0"><a href="#">김민섭</a></h2>
+							<span class="meta d-block mb-3">Front-end</span>
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere officiis inventore cumque tenetur laboriosam, minus culpa doloremque odio, neque molestias?</p>
 
 							<ul class="social list-unstyled list-inline dark-hover">
@@ -671,8 +569,8 @@
 						class="img-fluid">
 
 						<div class="person-contents">
-							<h2 class="mb-0"><a href="#">Alicia Huston</a></h2>
-							<span class="meta d-block mb-3">Real Estate Agent</span>
+							<h2 class="mb-0"><a href="#">조경준</a></h2>
+							<span class="meta d-block mb-3">Back-end</span>
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere officiis inventore cumque tenetur laboriosam, minus culpa doloremque odio, neque molestias?</p>
 
 							<ul class="social list-unstyled list-inline dark-hover">
@@ -684,6 +582,26 @@
 						</div>
 					</div>
 				</div>
+
+				<div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0">
+					<div class="h-100 person">
+
+						<img src="images/snoopy.png" alt="Image"
+							 class="img-fluid">
+				<div class="person-contents">
+					<h2 class="mb-0"><a href="#">조영민</a></h2>
+					<span class="meta d-block mb-3">Front-end</span>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere officiis inventore cumque tenetur laboriosam, minus culpa doloremque odio, neque molestias?</p>
+
+					<ul class="social list-unstyled list-inline dark-hover">
+						<li class="list-inline-item"><a href="#"><span class="icon-twitter"></span></a></li>
+						<li class="list-inline-item"><a href="#"><span class="icon-facebook"></span></a></li>
+						<li class="list-inline-item"><a href="#"><span class="icon-linkedin"></span></a></li>
+						<li class="list-inline-item"><a href="#"><span class="icon-instagram"></span></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
 			</div>
 		</div>
 	</div>
@@ -695,11 +613,15 @@
 				<div class="col-lg-4">
 					<div class="widget">
 						<h3>Contact</h3>
-						<address>43 Raymouth Rd. Baltemoer, London 3910</address>
+						<address>서울시 노원구 월계동 123-45</address>
 						<ul class="list-unstyled links">
-							<li><a href="tel://11234567890">+1(123)-456-7890</a></li>
-							<li><a href="tel://11234567890">+1(123)-456-7890</a></li>
-							<li><a href="mailto:info@mydomain.com">info@mydomain.com</a></li>
+							<li><a href="tel://01012345678">010-1234-5678</a></li>
+							<li><a href="tel://01098765432">010-9876-5432</a></li>
+							<li><a href="mailto:202012055@induk.ac.kr">202012055@induk.ac.kr</a></li>
+							<li><a href="mailto:202212018@induk.ac.kr">202212018@induk.ac.kr</a></li>
+							<li><a href="mailto:202226024@induk.ac.kr">202226024@induk.ac.kr</a></li>
+							<li><a href="mailto:202312004@induk.ac.kr">202312004@induk.ac.kr</a></li>
+
 						</ul>
 					</div> <!-- /.widget -->
 				</div> <!-- /.col-lg-4 -->
@@ -707,12 +629,11 @@
 					<div class="widget">
 						<h3>Sources</h3>
 						<ul class="list-unstyled float-start links">
+							<li><a href="#">Hoem</a></li>
 							<li><a href="#">About us</a></li>
-							<li><a href="#">Services</a></li>
-							<li><a href="#">Vision</a></li>
-							<li><a href="#">Mission</a></li>
-							<li><a href="#">Terms</a></li>
-							<li><a href="#">Privacy</a></li>
+							<li><a href="#">Login</a></li>
+							<li><a href="#">GPS</a></li>
+							<li><a href="#">Review</a></li>
 						</ul>
 						<ul class="list-unstyled float-start links">
 							<li><a href="#">Partners</a></li>
