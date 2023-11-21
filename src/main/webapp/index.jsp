@@ -1,9 +1,3 @@
-<!-- /*
-* Template Name: Property
-* Template Author: Untree.co
-* Template URI: https://untree.co/
-* License: https://creativecommons.org/licenses/by/3.0/
-*/ -->
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!doctype html>
 <html lang="en">
@@ -28,7 +22,7 @@
 	<link rel="stylesheet" href="css/aos.css">
 	<link rel="stylesheet" href="css/style.css">
 
-	<title>Link Library System&mdash; Free Bootstrap 5 Website Template by Untree.co</title>
+	<title>Link Library System&mdash; Free Bootstrap 5 Website Template by Untree.co</title> <!-- title 이름 수정 -->
 </head>
 <body>
 
@@ -49,24 +43,11 @@
 
 					<ul class="js-clone-nav d-none d-lg-inline-block text-start site-menu float-end">
 						<li class="active"><a href="index.html">Home</a></li>
-						<li class="has-children">
-							<a href="properties.html">Properties</a>
-							<ul class="dropdown">
-								<li><a href="#">Buy Property</a></li>
-								<li><a href="#">Sell Property</a></li>
-								<li class="has-children">
-									<a href="#">Dropdown</a>
-									<ul class="dropdown">
-										<li><a href="#">Sub Menu One</a></li>
-										<li><a href="#">Sub Menu Two</a></li>
-										<li><a href="#">Sub Menu Three</a></li>
-									</ul>
-								</li>
-							</ul>
-						</li>
-						<li><a href="services.html">Services</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="contact.html">Contact Us</a></li>
+						<li> <a href="properties.html">GPS</a></li> <!-- Properties -> GPS 으로 수정-->
+						<!-- Drop Box 기능과 children 속성 제거 -->
+						<li><a href="services.html">Review</a></li> <!-- Services -> Review로 수정 -->
+						<li><a href="about.html">Login</a></li> <!-- Login으로 수정 -->
+						<li><a href="contact.html">About Us</a></li> <!-- Contact Us -> About Us로 변경 -> -->
 					</ul>
 
 					<a href="#" class="burger light me-auto float-end mt-1 site-menu-toggle js-menu-toggle d-inline-block d-lg-none" data-toggle="collapse" data-target="#main-navbar">
@@ -521,7 +502,7 @@
 					<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam enim pariatur similique debitis vel nisi qui reprehenderit totam? Quod maiores.</p>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row"> <!-- 개발자 정보 수정 -->
 				<div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0">
 					<div class="h-100 person">
 
@@ -586,8 +567,9 @@
 				<div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0">
 					<div class="h-100 person">
 
-						<img src="images/snoopy.png" alt="Image"
+						<img src="images/person_4-min.jpg" alt="Image"
 							 class="img-fluid">
+
 				<div class="person-contents">
 					<h2 class="mb-0"><a href="#">조영민</a></h2>
 					<span class="meta d-block mb-3">Front-end</span>
@@ -613,8 +595,8 @@
 				<div class="col-lg-4">
 					<div class="widget">
 						<h3>Contact</h3>
-						<address>서울시 노원구 월계동 123-45</address>
-						<ul class="list-unstyled links">
+						<address>서울시 노원구 월계동 123-45</address> <!-- 기존 주소에서 노원구 주소로 변경 -->
+						<ul class="list-unstyled links"> <!-- 연락처와 연락 이메일 주소 변경 -->
 							<li><a href="tel://01012345678">010-1234-5678</a></li>
 							<li><a href="tel://01098765432">010-9876-5432</a></li>
 							<li><a href="mailto:202012055@induk.ac.kr">202012055@induk.ac.kr</a></li>
@@ -629,11 +611,12 @@
 					<div class="widget">
 						<h3>Sources</h3>
 						<ul class="list-unstyled float-start links">
+							<!-- Home, GPS, Review, About Us, Login으로 수정 -->
 							<li><a href="#">Hoem</a></li>
-							<li><a href="#">About us</a></li>
-							<li><a href="#">Login</a></li>
 							<li><a href="#">GPS</a></li>
 							<li><a href="#">Review</a></li>
+							<li><a href="#">Login</a></li>
+							<li><a href="#">About Us</a></li>
 						</ul>
 						<ul class="list-unstyled float-start links">
 							<li><a href="#">Partners</a></li>
@@ -675,7 +658,9 @@
               **==========
             -->
 
-            <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed with love by <a href="https://untree.co">Untree.co</a> <!-- License information: https://untree.co/license/ -->
+            <p>Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed by KJJK <a href="https://untree.co">KJJK.co</a>
+				<!-- License information: https://untree.co/license/ -->
+				<!-- 위 주석은 기존에 있던 라이센스 주석 해당 라이센스 부분은 기존 내용(untree)에서 KJJK로 변경-->
             </p>
 
           </div>
