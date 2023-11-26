@@ -22,7 +22,7 @@
 	<link rel="stylesheet" href="css/aos.css">
 	<link rel="stylesheet" href="css/style.css">
 
-	<title>Link Library System&mdash; Free Bootstrap 5 Website Template by Untree.co</title> <!-- title 이름 수정 -->
+	<title>Link Library System2&mdash; Free Bootstrap 5 Website Template by Untree.co</title> <!-- title 이름 수정 -->
 </head>
 <body>
 
