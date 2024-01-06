@@ -22,7 +22,7 @@
 	<link rel="stylesheet" href="css/aos.css">
 	<link rel="stylesheet" href="css/style.css">
 
-	<title>Link Library System2&mdash; Free Bootstrap 5 Website Template by Untree.co</title> <!-- title 이름 수정 -->
+	<title>Link Library System</title> <!-- title 이름 수정: Link Library System2&mdash; Free Bootstrap 5 Website Template by Untree.co -->
 </head>
 <body>
 
@@ -65,7 +65,7 @@
 		<div class="hero-slide">
 			<div class="img overlay" style="background-image: url('images/hero_bg_3.jpg')"></div>
 			<div class="img overlay" style="background-image: url('images/hero_bg_2.jpg')"></div>
-			<div class="img overlay" style="background-image: url('images/hero_bg_1.jpg')"></div>
+			<div class="img overlay" style="background-image: url('images/1f_cafeteria01.jpg')"></div>
 		</div>
 
 		<div class="container">
