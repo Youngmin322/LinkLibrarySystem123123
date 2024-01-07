@@ -43,11 +43,11 @@
 
 					<ul class="js-clone-nav d-none d-lg-inline-block text-start site-menu float-end">
 						<li class="active"><a href="index.html">Home</a></li>
-						<li> <a href="properties.html">GPS</a></li> <!-- Properties -> GPS 으로 수정-->
+						<li> <a href="gps.html">GPS</a></li> <!-- Properties -> GPS 으로 수정-->
 						<!-- Drop Box 기능과 children 속성 제거 -->
-						<li><a href="services.html">Review</a></li> <!-- Services -> Review로 수정 -->
-						<li><a href="about.html">Login</a></li> <!-- Login으로 수정 -->
-						<li><a href="contact.html">About Us</a></li> <!-- Contact Us -> About Us로 변경 -> -->
+						<li><a href="review.html">Review</a></li> <!-- Services -> Review로 수정 -->
+						<li><a href="login.html">Login</a></li> <!-- Login으로 수정 -->
+						<li><a href="about.html">About Us</a></li> <!-- Contact Us -> About Us로 변경 -> -->
 					</ul>
 
 					<a href="#" class="burger light me-auto float-end mt-1 site-menu-toggle js-menu-toggle d-inline-block d-lg-none" data-toggle="collapse" data-target="#main-navbar">
