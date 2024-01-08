@@ -495,6 +495,8 @@
 		</div>
 	</div>
 -->
+
+	<!----
 	<div class="section section-5 bg-light">
 		<div class="container">
 			<div class="row justify-content-center  text-center mb-5">
@@ -503,7 +505,7 @@
 					<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam enim pariatur similique debitis vel nisi qui reprehenderit totam? Quod maiores.</p>
 				</div>
 			</div>
-			<div class="row"> <!-- 개발자 정보 수정 -->
+			<div class="row">
 				<div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0">
 					<div class="h-100 person">
 
@@ -588,7 +590,7 @@
 			</div>
 		</div>
 	</div>
-
+---->
 	<div class="site-footer">
 		<div class="container">
 			
