@@ -63,8 +63,8 @@
 
 
 		<div class="hero-slide">
-			<div class="img overlay" style="background-image: url('images/hero_bg_3.jpg')"></div>
-			<div class="img overlay" style="background-image: url('images/hero_bg_2.jpg')"></div>
+			<div class="img overlay" style="background-image: url('images/1f_learning01.jpg')"></div>
+			<div class="img overlay" style="background-image: url('images/1f_community01.jpg')"></div>
 			<div class="img overlay" style="background-image: url('images/1f_cafeteria01.jpg')"></div>
 		</div>
 
@@ -371,6 +371,7 @@
 		</div>
 	</div>
 
+	<!--
 	<section class="features-1">
 		<div class="container">
 			<div class="row">
@@ -409,7 +410,7 @@
 			</div>
 		</div>
 	</section>
-
+<!--
 	<div class="section section-4 bg-light">
 		<div class="container">
 			<div class="row justify-content-center  text-center mb-5">
@@ -490,10 +491,10 @@
 			<div class="col-lg-7 mx-auto text-center">
 				<h2 class="mb-4 ">Be a part of our growing real state agents</h2>
 				<p><a href="#" target="_blank" class="btn btn-primary text-white py-3 px-4">Apply for Real Estate agent</a></p>
-			</div> <!-- /.col-lg-7 -->
-		</div> <!-- /.row -->
+			</div>
+		</div>
 	</div>
-
+-->
 	<div class="section section-5 bg-light">
 		<div class="container">
 			<div class="row justify-content-center  text-center mb-5">
@@ -612,7 +613,7 @@
 						<h3>Sources</h3>
 						<ul class="list-unstyled float-start links">
 							<!-- Home, GPS, Review, About Us, Login으로 수정 -->
-							<li><a href="#">Hoem</a></li>
+							<li><a href="#">Home</a></li>
 							<li><a href="#">GPS</a></li>
 							<li><a href="#">Review</a></li>
 							<li><a href="#">Login</a></li>
@@ -624,7 +625,6 @@
 							<li><a href="#">Careers</a></li>
 							<li><a href="#">Blog</a></li>
 							<li><a href="#">FAQ</a></li>
-							<li><a href="#">Creative</a></li>
 						</ul>
 					</div> <!-- /.widget -->
 				</div> <!-- /.col-lg-4 -->
